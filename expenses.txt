@@ -1,0 +1,2 @@
+food,500.0
+ice cream,570.0
